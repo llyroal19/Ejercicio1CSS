@@ -1,6 +1,6 @@
 /* Estilos para el encabezado */
 header {
-    background-color: #e1c6ac;
+    background-color: #f0f0f0;
     padding: 30px;
   }
   
@@ -11,7 +11,7 @@ header {
     text-align: center;
   }
   h2 {
-    background-color: #d0aa8c;
+    background-color: #f5b706;
     /*color: #d5b191;*/
     font-size: 24px;
     font-weight:bolder;
@@ -54,20 +54,20 @@ header {
   }
   
   nav li a:hover {
-    background-color: #8B4513;
+    background-color: #f5b706;
     color: #2c6d58;
   }
   
   /* Estilos para los artículos */
   article {
-    background-color: #e1c6ac;
+    background-color: #8c7b4c;
     padding: 20px;
     margin-bottom: 20px;
   }
   
   h3 {
     font-size: 24px;
-    color: #8B4513;
+    color: #f0f0f0;
 
     font-style: italic;
     text-decoration: underline;
@@ -75,7 +75,7 @@ header {
   
   /* Estilos para el pie de página */
   footer {
-    background-color: #b49a6e;
+    background-color: #f5b706;
     text-align: center;
     padding: 20px;
     }
