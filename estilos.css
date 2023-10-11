@@ -1,0 +1,93 @@
+/* Estilos para el encabezado */
+header {
+    background-color: #e1c6ac;
+    padding: 30px;
+  }
+  
+  h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #000000;
+    text-align: center;
+  }
+  h2 {
+    background-color: #d0aa8c;
+    /*color: #d5b191;*/
+    font-size: 24px;
+    font-weight:bolder;
+    color: #000000;
+    text-align: left; 
+      }
+  
+  /* Estilos para la imagen del encabezado */
+  header img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+  
+  /* Estilos para la lista de navegación */
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f0e2cd;
+    font-weight:bolder;
+    text-align: center; /* Centra los elementos horizontalmente */
+    display: flex;
+    justify-content: center; /* Centra los elementos horizontalmente */
+  }
+  
+  nav li {
+    float:inline-start
+    
+}
+    
+    
+  nav li a {
+    display: block;
+    color: #8B4513;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  nav li a:hover {
+    background-color: #8B4513;
+    color: #2c6d58;
+  }
+  
+  /* Estilos para los artículos */
+  article {
+    background-color: #e1c6ac;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    font-size: 24px;
+    color: #8B4513;
+
+    font-style: italic;
+    text-decoration: underline;
+    }
+  
+  /* Estilos para el pie de página */
+  footer {
+    background-color: #b49a6e;
+    text-align: center;
+    padding: 20px;
+    }
+  
+  /* Estilos para los enlaces */
+  a {
+    color: #8B4513;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  a:hover {
+    color: #F5DEB3;
+  }
+
